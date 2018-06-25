@@ -1,5 +1,4 @@
 div {
-  
   border: 20px solid #000; /* this is short hand for setting
                             the border's width, its type, and color */
   display: inline-block; /* a way of positioning elements */
@@ -10,3 +9,8 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
+
+#red {
+  border-top-color: #f00;
+}
+#
